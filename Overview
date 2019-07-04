@@ -1,0 +1,10 @@
+# CIJ_SummerSchool_2019
+
+R 1: Introduction to R
+In the first class, R-1, you’ll be shown the basics and get familiar with R and RStudio, import data and learn some functions for getting to grips with your dataset including sorting and filtering. This class assumes no prior experience with R.
+
+R 2:  Data Wrangling and Statistics
+In R-2 you’ll get down to some data wrangling and learn how join datasets and carry out calculations in R that will allow you to identify trends in the data for storytelling. You’ll also learn statistical functions in R and how to use ggplot2 for basic visual analysis.
+
+R 3:  Scraping and APIs
+In the third and final class, you’ll use R to scrape, clean and structure data from webpages and APIs. You’ll also learn how to use R to convert, join and split difficult data files. 
